@@ -209,3 +209,6 @@ __marimo__/
 # Node.js / Frontend
 node_modules/
 .DS_Store
+
+# PID files from dev scripts
+.pids/
